@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- Playing in creative coding
+- Making thing that look nice
+- Experimenting in creative way to express myself
+- Algorithms for visuals 
+
 <!--
 **ToroRojo-code/ToroRojo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
