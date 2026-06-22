@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Playing in creative coding
-- Making thing that look nice
+- Making things that look nice
 - Experimenting in creative way to express myself
 - Algorithms for visuals 
 
